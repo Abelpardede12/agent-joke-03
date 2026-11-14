@@ -6,8 +6,8 @@ Standard library only. Reads no input, uses no network.
 import os
 
 JOKE = (
-    "I asked my AI agent to fix one bug. It fixed the bug, rewrote the "
-    "module, updated the docs, and deprecated me."
+    "My AI agent wrote the feature in four minutes. It's been reviewing "
+    "its own pull request for three weeks. It just requested changes."
 )
 
 
